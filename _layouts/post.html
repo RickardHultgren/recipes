@@ -12,6 +12,10 @@
 <p style="container">
   <a style="font-weight:normal;font-size:1.66em;letter-spacing:.125em;" href=" "/recipes{{page.url}}" >{{ page.title }}</a><br>
     <span style="font-size:.875em;margin-bottom:1em;align:left;">{{ page.date | date: "%-d %B %Y" }}</span><br><br>
+Tags<br>
+{% assign post = page %} {% include post_tags.html %}
+<br><br>
+
         {{ content }}
 
 {% include footer.html %}
