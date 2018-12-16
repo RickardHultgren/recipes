@@ -1,2 +1,2 @@
 # Recipes
-[{{site.baseurl}}/index.html]({{site.baseurl}}/index.html)
+[https://github.com/RickardHultgren/recipes](https://github.com/RickardHultgren/recipes)
