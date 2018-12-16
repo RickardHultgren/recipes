@@ -1,2 +1,2 @@
 # Recipes
-[https://github.com/RickardHultgren/recipes](https://github.com/RickardHultgren/recipes)
+[http://rickardhultgren.github.io/recipes](http://rickardhultgren.github.io/recipes)
