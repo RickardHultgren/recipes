@@ -1,4 +1,5 @@
 {% if post.tags.size > 0 %}
+include
 <p class="post-tags {{include['tags-class']}}">
   <i class="fa fa-tags"></i>
   {% for tag in post.tags | sort %}
