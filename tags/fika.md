@@ -1,8 +1,8 @@
 ---
 layout: tag
-title: Posts with tag AppSettings
-summary: posts with tag AppSettings
-tag: appsettings
-permalink: /tags/appsettings/
+title: Posts with tag fika
+summary: posts with tag fika
+tag: fika
+permalink: /tags/fika/
 sitemap: false
 ---
