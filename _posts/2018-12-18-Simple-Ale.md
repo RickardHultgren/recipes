@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Simple Ale
+tag: beverage
+tag: fermentation
 ---
 <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Recipe">
    <h1 property="v:name">Simple Ale</h1>
