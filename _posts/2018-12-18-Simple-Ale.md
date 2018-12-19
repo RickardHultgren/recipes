@@ -16,9 +16,9 @@ tag: fermentation
    <p>Yield: <span property="v:yield">1 l ale</span></p>
    <span rel="v:nutrition">
       <span typeof="v:Nutrition"> 
-        Serving size: <span property="v:servingSize">1 l</span>
-        Calories per serving: <span property="v:calories">?</span>
-        Fat per serving: <span property="v:fat">0g</span> 
+        <p>Serving size: <span property="v:servingSize">1 l</span></p>
+        <p>Calories per serving: <span property="v:calories">?</span></p>
+        <p>Fat per serving: <span property="v:fat">0g</span> </p>
       </span>
    </span>
    <p>
@@ -67,5 +67,6 @@ tag: fermentation
 <li>Let rest in 4 degrees C for 1 day (in order to brake the yeast).</li>
 <li>Put air-tight lid on the bottles and let it rest in 4 degrees C for 1 day.</li>
    </ol>
-</div>
 </p>
+</div>
+
