@@ -61,7 +61,7 @@ tag: fermentation
    <ol property="v:instructions">
 <li>Put the bread/ginger into hot boiled water and wait 24h.</li>
 <li>Filter.</li>
-<li>Bring to boil and desolve the sugar. Let cool.</li>
+<li>Bring a few dl of the ginger infusion to boil and desolve the sugar. Add the rest of the infusion. Let cool.</li>
 <li>Add yeast and lemon juice.</li>
 <li>Put on a water trap.</li>
 <li>Let rest in warm place for 1.5-2 h.</li>
