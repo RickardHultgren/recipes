@@ -26,7 +26,7 @@ tag: fermentation
    <ul>
    <li rel="v:ingredient">
       <span typeof="v:RecipeIngredient"> 
-         Grated <span property="v:name">ginger</span>:   
+         Grated <span property="v:name">ginger</span> or <span property="v:name">rye bread</span> or <span property="v:name">teff bread</span>:   
          <span property="v:amount">250 g</span> 
      </span>   
    </li>
