@@ -21,6 +21,7 @@ tag: fermentation
         Fat per serving: <span property="v:fat">0g</span> 
       </span>
    </span>
+   <p>
    Ingredients: 
    <ul>
    <li rel="v:ingredient">
@@ -53,8 +54,8 @@ tag: fermentation
          <span property="v:amount">1/8 package</span>  
       </span>   
    </li>  
-   ...
- 
+</p>
+<p>
    Directions:
    <ol property="v:instructions">
 <li>Put the bread/ginger into hot boiled water and wait 24h. Add lemon juice.</li>
@@ -66,3 +67,4 @@ tag: fermentation
 <li>Put air-tight lid on the bottles and let it rest in 4 degrees C for 1 day.</li>
    </ol>
 </div>
+</p>
