@@ -59,8 +59,9 @@ tag: fermentation
 <p>
    Directions:
    <ol property="v:instructions">
-<li>Put the bread/ginger into hot boiled water and wait 24h. Add lemon juice.</li>
+<li>Put the bread/ginger into hot boiled water and wait 24h.</li>
 <li>Filter.</li>
+<li>Add lemon juice.</li>
 <li>Solve the sugar and let cool. Add yeast.</li>
 <li>Put on a water trap.</li>
 <li>Let rest in warm place for 1.5-2 h.</li>
