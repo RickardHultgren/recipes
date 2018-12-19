@@ -54,6 +54,7 @@ tag: fermentation
          <span property="v:amount">1/8 package</span>  
       </span>   
    </li>  
+  </ul>
 </p>
 <p>
    Directions:
